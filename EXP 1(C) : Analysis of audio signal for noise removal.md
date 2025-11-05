@@ -8,8 +8,6 @@
 PC installed with SCILAB. 
 
 # PROGRAM: 
-
-
 // DISCRETE FOURIER TRANSFORM 
 
 # RESULT: 
